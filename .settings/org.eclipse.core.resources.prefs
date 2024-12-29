@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/common/DBConnPool.java=UTF-8
+encoding//src/main/java/common/JDBConnect.java=UTF-8
+encoding//src/main/java/common/Person.java=UTF-8
+encoding//src/main/java/model1/board/BoardDAO.java=UTF-8
+encoding//src/main/java/utils/CookieManager.java=UTF-8
+encoding//src/main/java/utils/JSFunction.java=UTF-8
+encoding//src/main/webapp/01DirectiveScript/OrganizingWord.jsp=UTF-8
+encoding//src/main/webapp/02ImplicitObject/OrganizingWord.jsp=UTF-8
+encoding//src/main/webapp/05JDBC/DataBases.jsp=UTF-8
+encoding//src/main/webapp/08Board/Write.jsp=UTF-8
+encoding/<project>=ISO-8859-1
